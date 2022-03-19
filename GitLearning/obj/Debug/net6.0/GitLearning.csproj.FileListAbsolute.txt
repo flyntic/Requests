@@ -1,0 +1,15 @@
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\GitLearning.csproj.AssemblyReference.cache
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\GitLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\GitLearning.AssemblyInfoInputs.cache
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\GitLearning.AssemblyInfo.cs
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\GitLearning.csproj.CoreCompileInputs.cache
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\bin\Debug\net6.0\GitLearning.exe
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\bin\Debug\net6.0\GitLearning.deps.json
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\bin\Debug\net6.0\GitLearning.runtimeconfig.json
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\bin\Debug\net6.0\GitLearning.dll
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\bin\Debug\net6.0\GitLearning.pdb
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\GitLearning.dll
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\refint\GitLearning.dll
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\GitLearning.pdb
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\GitLearning.genruntimeconfig.cache
+C:\IDS\C#\Chancellery_DB\GitLearning\GitLearning\obj\Debug\net6.0\ref\GitLearning.dll
